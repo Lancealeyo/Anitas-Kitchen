@@ -19,7 +19,7 @@ For this application to run you will need:
 ## DEMO(SCREENSHOTS)
 
 ### Demo
-Attached is a working live demo: 
+Attached is a working live demo: https://lancealeyo.github.io/Anitas-Kitchen/
 
 ### Screenshots
 | LogoBig | Pizza | Drink|
