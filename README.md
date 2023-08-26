@@ -22,11 +22,9 @@ For this application to run you will need:
 Attached is a working live demo: 
 
 ### Screenshots
-| Pizza | Drink|
-|-------|------|
-|![Pizza](Anitas-kitchen/fastfood/chickenPizza.jpg)|![Drink](Anitas-kitchen/drink2.jpg)|
-| LogoBig |
-|![LogoBig](Anitas-kitchen/logoBig.png)
+| LogoBig | Pizza | Drink|
+|---------|-------|------|
+|![LogoBig](Anitas-kitchen/logoBig.png)|![Pizza](Anitas-kitchen/fastfood/chickenPizza.jpg)|![Drink](Anitas-kitchen/drink2.jpg)|
 
 ## AUTHOR INFO
 
