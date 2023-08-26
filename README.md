@@ -2,6 +2,12 @@
 
 ## DESCRIPTION
 
+Anitas-Kitchen is a website built mainly to provide for the restaurants menu,
+
+It contains the variety of food available.
+
+The website also has a platform for reaching out in case of delivery.
+
 ## TECHNOLOGIES
 
 The technologies used to create Anita's Kitchen website were:
