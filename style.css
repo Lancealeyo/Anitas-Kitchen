@@ -1,0 +1,199 @@
+header{
+    background-image: URL(Anitas-kitchen/backgrounds/landing.jpg);
+    height: 600px;
+    width: 1400px;
+}
+header p{
+    text-align: center;
+    color: rgb(220, 211, 211);
+    font-size: 40px;
+}
+header img{
+    padding-left: 600px;
+    padding-top: 100px;
+}
+header p span{
+    color: white;
+}
+h3{
+    display: inline-flex;
+    flex-direction: row;
+    padding-left: 200px;
+    margin-top: 0px;
+}
+.breakfast{
+    background-image: URL(Anitas-kitchen/foodtop/breakfast.jpg);
+    height: 210px;
+    width: 196px;
+    color: #ffffff;
+    font-style: italic;
+}
+.h3{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    float: left;
+    height: 210px;
+    width: 350px;
+    font-style: normal;
+}
+.hour{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.span{
+    padding-bottom: 16.7%;
+    padding-top: 30px;
+    background-color:#F15A29;
+}
+.lunch{
+    background-image: URL(Anitas-kitchen/foodtop/dinner2.jpg);
+    height: 210px;
+    width: 196px;
+    margin-left: -50px;
+    color: #ffffff;
+    font-style: italic;
+}
+.dinner{
+    background-image: URL(Anitas-kitchen/foodtop/dinner.jpg);
+    height: 210px;
+    width: 150px;
+    margin-left: -50px;
+    color: #ffffff;
+    font-style: italic;
+}
+button{
+    border-color: #F15A29;
+    color: #F15A29;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    background-color: white;
+    font-weight: bold;
+}
+.fastfood1{
+    float: right;
+    margin-top: -400px;
+    margin-right: 450px;
+}
+#fastfood1 img{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+}
+.fastfood2{
+    margin-top: 100px;
+}
+#drinks{
+    display: inline-flex;
+}
+.drinks{
+    text-align: right;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.drinksimg{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.drink1{
+    margin-right: -5px;
+}
+#fastfood img{
+    padding-left: 30px;
+    padding-top: 50px;
+}
+nav>ul>li{
+    text-align: left;
+    display: inline-block;
+    padding-left: 200px;
+    padding-top: 100px;
+    text-decoration: none;
+    font-size: larger;
+}
+.chickenBurger{
+    margin-left: 200px;
+}
+#fastfood span{
+    color: #F15A29;
+}
+#fastfood{
+    background-image: URL(Anitas-kitchen/backgrounds/foodsBg.jpg);
+    height: 600px;
+    width: 1400px;
+    margin-top: 50px;
+}
+#customers{
+    text-align: center;
+    margin-top: 50px;
+}
+#customers img{
+    padding-left: 20px;
+}
+.customers{
+    float: left;
+    margin-left: 350px;
+}
+#customers h1{
+    color: #F15A29;
+}
+#customers .about{
+    padding-top: 5px;
+}
+#email{
+    background-image: URL(Anitas-kitchen/backgrounds/subscribe.jpg);
+    width: 1400px;
+    height: 300px;
+    text-align: center;
+    margin-top: 100px;
+}
+#email p{
+    color: #ffffff;
+    padding-top: 150px;
+    font-size:xx-large;
+}
+#email input{
+    border-style: none;
+    height: 30px;
+    width: 25%;
+    background-color: rgba(255, 255, 255, 0.20);
+    padding-left: 15px;
+    border-radius: 3px;
+}
+#email button{
+    background-color: #F15A29;
+    height: 30px;
+    border-style: none;
+    color: #ffffff;
+    margin-left: 30px;
+    border-radius: 3px;
+}
+footer{
+    background-color: #F15A29;
+    width: 1400px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 2px;
+}
+.logo{
+    float: left;
+    padding-left: 630px;
+}
+.menu{
+    padding-right: 600px;
+    margin-top: 5px;
+}
+.fb{
+    margin-left: 30px;
+}
+.twitter{
+    margin-left: 20px;
+}
+.pininterest{
+    margin-left: 20px;
+}
+.p{
+    margin-left: 30px;
+    margin-top: 50px;
+}
