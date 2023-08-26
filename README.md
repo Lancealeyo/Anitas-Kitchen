@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-Anitas-Kitchen is a website built mainly to provide for the restaurants menu,
+Anitas-Kitchen is a website built mainly to showcase the restaurants menu.
 
 It contains the variety of food available.
 
