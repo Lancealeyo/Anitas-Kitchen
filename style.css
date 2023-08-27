@@ -136,7 +136,7 @@ nav ul li span{
 }
 #customers{
     text-align: center;
-    margin-top: 250px;
+    margin-top: 230px;
     display: flex;
     background: #fff;
     position: relative;
@@ -150,9 +150,9 @@ nav ul li span{
 }
 .customers{
     float: left;
-    margin-left: 130px;
-    border-right: 1px solid;
-    padding: 10px;
+    margin-left: 100px;
+    border-right: 1px solid rgb(227, 225, 225);
+    padding-right: 80px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -178,7 +178,7 @@ nav ul li span{
     width: 1400px;
     height: 300px;
     text-align: center;
-    margin-top: -150px;
+    margin-top: -100px;
 }
 #email p{
     color: #ffffff;
