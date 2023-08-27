@@ -110,37 +110,74 @@ button{
 .drink1{
     margin-right: -5px;
 }
-#fastfood img{
-    padding-left: 10px;
-    padding-top: 50px;
-}
-nav ul li{
-    display: inline-block;
-    margin-left: 220px;
-    padding-top: 100px;
-    text-decoration: none;
-    font-size: larger;
-}
-.chickenBurger{
-    margin-left: 170px;
-}
-nav ul li span{
-    color: #F15A29;
-    margin-left: -30px;
-}
 #fastfood{
     background-image: URL(Anitas-kitchen/backgrounds/foodsBg.jpg);
     width: 1400px;
     height: 600px;
     margin-top: 50px;
+    padding: 100px;
+    background-repeat: no-repeat;
+}
+.fastfood{
+    background: #fff;
+    height: 410px;
+    width: 1050px;
+    margin-left: 70px;
+}
+.food{
+    flex-basis: 25%;
+    border-right: 1px solid#b7b5b5;
+    text-align: center;
+    color: #000000;
+    padding: 10px;
+    background: #d5d5d5;
+}
+#food{
+    background: #ffffff;
+    color: #F15A29;
+}
+.nav{
+    display: flex;
+}
+#img1{
+    margin-left: 20px;
+}
+.img2{
+    margin-left: 115px;
+}
+.img3{
+    margin-left: 130px;
+}
+#fastfood .img{
+    display: inline-flex;
+    align-items: center;
+}
+.icon{
+    color: #F15A29;
+    padding: 30px;
+}
+.icon1{
+    color: #F15A29;
+    padding: 30px;
+}
+.txt{
+    color: #F15A29;
+    padding-top: 300px;
+    margin-left: -200px;
+}
+.burger{
+    margin-left: -15px;
+}
+.chicken{
+    margin-left: -80px;
 }
 #customers{
     text-align: center;
-    margin-top: 230px;
+    margin-top: 30px;
     display: flex;
     background: #fff;
     position: relative;
-    left: 50%;
+    left: 47%;
     transform: translate(-50%, -50%);
     box-shadow: 0 0 5px 5px #d5d5d5;
     width: 70%;
