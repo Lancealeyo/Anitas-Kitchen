@@ -80,11 +80,14 @@ button{
 }
 #fastfood1 img{
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     margin-left: 150px;
+    box-shadow: 0 0 5px 2px #d5d5d5;
+    padding: 15px;
 }
 .fastfood2{
     margin-top: 100px;
+    margin-bottom: -30px;
 }
 #drinks{
     display: inline-flex;
