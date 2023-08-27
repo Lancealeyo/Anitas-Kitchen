@@ -49,12 +49,14 @@ h3{
     background-color:#F15A29;
 }
 .lunch{
-    background-image: URL(Anitas-kitchen/foodtop/dinner2.jpg);
+    background-image: URL(Anitas-kitchen/foodtop/lunch.jpg);
     height: 210px;
-    width: 196px;
-    margin-left: -50px;
+    width: 23%;
+    overflow: hidden;
+    opacity: 0.5;
     color: #ffffff;
     font-style: italic;
+    margin-left: -5px;
 }
 .dinner{
     background-image: URL(Anitas-kitchen/foodtop/dinner.jpg);
