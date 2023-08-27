@@ -61,10 +61,11 @@ h3{
 .dinner{
     background-image: URL(Anitas-kitchen/foodtop/dinner.jpg);
     height: 210px;
-    width: 150px;
-    margin-left: -50px;
+    width: 24%;
+    overflow: hidden;
     color: #ffffff;
     font-style: italic;
+    margin-left: -4px;
 }
 button{
     border-color: #F15A29;
