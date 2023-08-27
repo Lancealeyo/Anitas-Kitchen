@@ -1,7 +1,7 @@
 header{
     background-image: URL(Anitas-kitchen/backgrounds/landing.jpg);
-    height: 600px;
     width: 1400px;
+    height: 600px;
 }
 header p{
     text-align: center;
@@ -130,8 +130,8 @@ nav ul li span{
 }
 #fastfood{
     background-image: URL(Anitas-kitchen/backgrounds/foodsBg.jpg);
-    height: 600px;
     width: 1400px;
+    height: 600px;
     margin-top: 50px;
 }
 #customers{
@@ -178,7 +178,7 @@ nav ul li span{
     width: 1400px;
     height: 300px;
     text-align: center;
-    margin-top: 100px;
+    margin-top: -150px;
 }
 #email p{
     color: #ffffff;
