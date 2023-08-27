@@ -125,20 +125,41 @@ nav ul li span{
 }
 #customers{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 250px;
+    display: flex;
+    background: #fff;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 5px 5px #d5d5d5;
+    width: 70%;
 }
 #customers img{
     padding-left: 20px;
 }
 .customers{
     float: left;
-    margin-left: 350px;
+    margin-left: 130px;
+    border-right: 1px solid;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 #customers h1{
     color: #F15A29;
 }
 #customers .about{
-    padding-top: 5px;
+    padding-top: 40px;
+    margin-left: 80px;
+}
+.i{
+    color: #F15A29;
+    float: left;
+    margin-top: 30px;
+}
+.ic{
+    float: right;
+    color: #F15A29;
 }
 #email{
     background-image: URL(Anitas-kitchen/backgrounds/subscribe.jpg);
