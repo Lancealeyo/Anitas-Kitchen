@@ -18,13 +18,15 @@ header p span{
 h3{
     display: inline-flex;
     flex-direction: row;
-    padding-left: 200px;
+    align-items: center;
+    justify-content: center;
     margin-top: 0px;
 }
 .breakfast{
     background-image: URL(Anitas-kitchen/foodtop/breakfast.jpg);
+    overflow: hidden;
     height: 210px;
-    width: 196px;
+    width: 22.9%;
     color: #ffffff;
     font-style: italic;
 }
