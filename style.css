@@ -170,6 +170,7 @@ nav ul li span{
 .ic{
     float: right;
     color: #F15A29;
+    margin-top: 30px;
 }
 #email{
     background-image: URL(Anitas-kitchen/backgrounds/subscribe.jpg);
